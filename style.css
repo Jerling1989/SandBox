@@ -154,10 +154,10 @@ h6 {
     font-size: .75rem;
 }
 */
-.form-control {
+.form-group input {
     display: block;
     width: 100%;
-    padding: 1.0625rem .875rem;
+    padding: 1.625rem 1.0625rem;
     font-size: .875rem;
     line-height: 1.5;
     color: #495057;
@@ -167,6 +167,8 @@ h6 {
     border-radius: .1875rem;
     transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
 }
+
+
 
 
 .form-control:focus {
